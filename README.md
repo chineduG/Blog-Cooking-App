@@ -1,5 +1,11 @@
 # Recipe Blog - Using Node.js and MongoDB
 
+<<<<<<< HEAD
+=======
+
+
+UPDATE THIS
+>>>>>>> a75e5996c6171dd2108a61e0994a44f492577ac1
 
 ## Create .env file
 Create a .env file to store your MongoDB database credentials
