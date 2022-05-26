@@ -6,8 +6,7 @@ const cookieParser = require('cookie-parser');
 const flash = require('connect-flash');
 
 const app = express();
-const port = process.env.PORT || 9090;
-
+const port = process.env.PORT || 6060
 require('dotenv').config();
 
 app.use(express.urlencoded( { extended: true } ));
