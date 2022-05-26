@@ -1,10 +1,5 @@
 # Recipe Blog - Using Node.js and MongoDB
 
-This was created as part of YouTube Video. Links below
-
-![GitHub Logo](https://raddy.co.uk/wp-content/uploads/2021/09/recipe-blog-nodejs-mongoose.jpg)
-
-UPDATE THIS
 
 ## Create .env file
 Create a .env file to store your MongoDB database credentials
@@ -21,21 +16,3 @@ $ npm install
 $ npm start
 ```
 
-
-### YouTube Video & Article
-
-[YouTube Video](https://youtu.be/OEdPH4fV7vY)
-
-[Read Article](https://raddy.co.uk/blog/how-to-build-a-recipe-blog-using-node-js-and-mongodb-express-ejs-mongoose-crud/)
-
-### YouTube Channel - RaddyTheBrand
-
-[Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
-
-### Website
-[www.raddy.co.uk](https://www.raddy.co.uk)
-
-### Donations
-[Via Paypal](https://www.paypal.com/donate/?hosted_button_id=YUH7JRDUN5QEY)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
